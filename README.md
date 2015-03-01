@@ -9,10 +9,10 @@
 </p>
 <p>
 	If You truly love Code Show Your love To Make these
-	Prefrence file Better. <em><a href="www.sublimetext.com/3">Download Sublime 3</a></em>
+	Prefrence file Better. <b><a href="www.sublimetext.com/3">(Download Sublime 3)</a></b>
 </p>
 <p>
-	If you Have Enough Bucks Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download)</a></b>
+	If you Have Prefer Better Options Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download Dev Build)</a></b>
 </p>
 
 </body>
