@@ -12,7 +12,7 @@
 	Prefrence file Better. <em><a href="www.sublimetext.com/3">Download Sublime 3</a></em>
 </p>
 <p>
-	If you Enough Bucks Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download)</a></b>
+	If you Have Enough Bucks Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download)</a></b>
 </p>
 
 </body>
