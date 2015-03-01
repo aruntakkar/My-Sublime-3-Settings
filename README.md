@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<meta charset="UTF-8">
 	<title></title>
@@ -10,10 +9,10 @@
 </p>
 <p>
 	If You truly love Code Show Your love To Make these
-	Prefrence file Better. <a href="www.sublimetext.com/3">Sublime</a>
+	Prefrence file Better. <em><a href="www.sublimetext.com/3">Download Sublime 3</a></em>
 </p>
 <p>
-	If you Enough Bucks Then Go For <b>Dev Bulid.</b>
+	If you Enough Bucks Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download)</a></b>
 </p>
 
 </body>
