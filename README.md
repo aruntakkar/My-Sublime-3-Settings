@@ -1,19 +1,5 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title></title>
-</head>
-<body style="background:lightgray">
-<p>
-	This is For My love Towards This Editor
-</p>
-<p>
-	if You truly love Code Show Your love To Make these
-	Prefrence file Better. <b><a href="www.sublimetext.com/3">(Download Sublime 3)</a></b>
-</p>
-<p>
-	if you Have Prefer Better Options Then Go For <b>Dev Bulid <a href="http://www.sublimetext.com/3dev">(Download Dev Build)</a></b>
-</p>
+# My Prefrence File Make it Better By Fork and Pull Request.
 
-</body>
-</html>
+It's very easy to make these JSON **File** and other Plugin *&* Theme with Sublime. Here's the link for Download [Sublime 3](http://sublime.com/3)
+
+if you want Better Update Then Go For Dev Build Version
